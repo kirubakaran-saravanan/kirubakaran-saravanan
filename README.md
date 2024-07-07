@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Kirubakaran Saravanan!</h1>
 <h4 align="center">UI/UX Designer | Filmmaker</h4>
 
-- 📄 My [Certificates](https://drive.google.com/drive/u/1/folders/1JMWFujofQ9rxEUVukbv320C-CEpCy6pI)
+- 📄 My **[Certificates](https://drive.google.com/drive/u/1/folders/1JMWFujofQ9rxEUVukbv320C-CEpCy6pI)**
 
 - 🌱 I’m currently learning **Final Year BTech CSE with Gaming Technology**
 
